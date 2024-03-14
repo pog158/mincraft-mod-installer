@@ -29,7 +29,7 @@ This script allows you to easily install Minecraft mods either through an execut
    - Open a command prompt or terminal.
    - Use pip to install the required packages: os, shutil, requests, and tkinter. You can do this by running:
      ```
-     pip install os shutil requests tkinter
+     pip install (package name)
      ```
 
 3. **Run the Script**:
@@ -37,9 +37,9 @@ This script allows you to easily install Minecraft mods either through an execut
    - Navigate to the directory containing the Python script.
    - Run the script by executing it with Python. For example:
      ```
-     python script_name.py
+     python insatller.py
      ```
    - The script will prompt you to select mods to install. Follow the instructions to proceed with the installation.
 
-Choose the option that best suits your needs and preferences.
+Choose the option that best suits your needs and preferences. they are both the same 
 ```
